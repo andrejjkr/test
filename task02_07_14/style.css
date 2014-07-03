@@ -1,0 +1,54 @@
+/*div.table*/
+div.table1, div.table2, div.table3, div.table4{
+	
+	margin: 0;
+	padding: 0;
+	height: 120px;
+	width: 120px;
+}
+
+div.table1 ul, div.table2 ul, div.table3 ul, div.table4 ul{
+
+margin: 0;
+padding: 0;
+left: 0%;
+display: inline-block;
+position: relative;
+}
+
+div.table1 ul li, div.table2 ul li, div.table3 ul li, div.table4 ul li{
+
+display: inline-block;
+list-style:none;
+text-decoration: none;
+margin: 3px 0;
+height: 30px;
+width: 30px;
+border: 1px solid red;
+text-align: center;
+vertical-align: middle;
+background-color: orange;
+}
+
+div.table1 a, div.table2 a, div.table3 a, div.table4 a{
+	color: red;
+	text-decoration: none;
+
+}
+
+div.table1 ul li:nth-child(4n+1){
+	background-color: green;
+}
+
+
+div.table2 ul li:nth-child(n+2){
+	background-color: green;
+}
+
+div.table3 ul li:last-child{
+	background-color: green;
+}
+
+div.table4 ul li:nth-child(3n-1){
+	background-color: green;
+}
