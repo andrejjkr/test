@@ -68,8 +68,9 @@
 
 [Трюки с CSS-анимациями: мгновенные изменения, отрицательные задержки, анимация transform-origin и другое](http://habrahabr.ru/company/nordavind/blog/209462/)  http://habrahabr.ru/company/nordavind/blog/209462/
 
-[Бесплатный CSS3 генератор EnjoyCSS](http://habrahabr.ru/company/enjoycss/blog/216117/
-)  
+[Бесплатный CSS3 генератор EnjoyCSS](http://habrahabr.ru/company/enjoycss/blog/216117/) http://habrahabr.ru/company/enjoycss/blog/216117/
+
+[Стеклянные и глянцевые CSS3 кнопки](http://habrahabr.ru/sandbox/48925/) http://habrahabr.ru/sandbox/48925/
 
 ***
 ### JS
