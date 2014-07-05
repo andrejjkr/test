@@ -35,6 +35,8 @@
 
 [Markdoen editor](http://markable.in/editor/) http://markable.in/editor/
 
+[http://jsfiddle.net/](http://jsfiddle.net/)
+
 ***
 ### HTML
 
