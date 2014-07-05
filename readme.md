@@ -77,6 +77,8 @@
 
 [Современный учебник JavaScript](http://learn.javascript.ru/) http://learn.javascript.ru/
 
+[Метапрограммирование (с примерами на JavaScript)](http://habrahabr.ru/post/227753/) http://habrahabr.ru/post/227753/
+
 [Используя силу JS во всех аспектах веб-проекта](http://habrahabr.ru/company/raindrop/blog/202134/) http://habrahabr.ru/company/raindrop/blog/202134/
 
 [5 причин использовать AngularJS](http://habrahabr.ru/post/223425/) http://habrahabr.ru/post/223425/
@@ -85,6 +87,8 @@
 
 [исходники эмулятора x86 на JavaScript](http://habrahabr.ru/company/kolibrios/blog/201022/) http://habrahabr.ru/company/kolibrios/blog/201022/
 
+[Пишем бота для онлайн-игры на JavaScript с применением AOP](http://habrahabr.ru/post/228607/) http://habrahabr.ru/post/228607/
+ 
 [Превращаем статический сайт в мобильное приложение с помощью jQuery Mobile и PhoneGap](http://habrahabr.ru/post/201752/) http://habrahabr.ru/post/201752/
 
 [Маленькие программы на Javascript: куда податься](http://habrahabr.ru/post/202944/) http://habrahabr.ru/post/202944/
