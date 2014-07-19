@@ -123,7 +123,7 @@
 
 [JavaScript: цикличные таймеры с автокоррекцией](http://habrahabr.ru/post/212889/) http://habrahabr.ru/post/212889/
 
-
+[Особенности разработки WebGL игры Digital Trip](http://habrahabr.ru/company/htdt/blog/230323/) http://habrahabr.ru/company/htdt/blog/230323/
 
 ***
 ### И тд. и тп.
