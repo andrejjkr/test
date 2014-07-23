@@ -35,7 +35,9 @@
 
 [Markdoen editor](http://markable.in/editor/) http://markable.in/editor/
 
-[http://jsfiddle.net/](http://jsfiddle.net/)
+[http://jsfiddle.net/](http://jsfiddle.net/) http://jsfiddle.net/
+
+[Для регулярных выраженний](http://rubular.com/) http://rubular.com/
 
 ***
 ### HTML
