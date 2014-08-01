@@ -7,6 +7,8 @@
 
 [Образовательные и обучающие ресурсы для веб-разработчиков и веб-дизайнеров](http://habrahabr.ru/company/mailru/blog/215487/)   http://habrahabr.ru/company/mailru/blog/215487/
 
+[Голые пятницы #1 - Резиновые единицы изм.](http://habrahabr.ru/company/wargaming/blog/228145/)   http://habrahabr.ru/company/wargaming/blog/228145/
+
 [30 полезных сервисов для веб-разработчика](http://habrahabr.ru/post/225367/) http://habrahabr.ru/post/225367/
 
 [NodeSchool, Node.js и один урок для самых маленьких](http://habrahabr.ru/post/220493/) http://habrahabr.ru/post/220493/
