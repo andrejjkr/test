@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+	<title>CANVA-M</title>
+</head>
+<body>
+
+
+<div>
+	<p> &#9813;</p>
+</div>
+	<canvas height='640' width='640' id='test'></canvas>
+	<script >
+		var te = document.getElementById("test");
+		var ctx = te.getContext('2d');
+		ctx.strokeRect(0, 0, te.width, te.height);
+		var k=80;
+		var king = "\u2654";
+		var queen = "\u2655";
+		var rook = "\u";
+		var bishop = "\u";
+		var knight = "\u";
+
+
+		for (var i = 0; i < te.width; i+=2*k) {
+			for (var j = 0; j < te.width; j+=2*k){
+				ctx.fillStyle = '#191970';
+				ctx.fillRect(i, j, k, k);
+				ctx.fillRect(i+k, j+k, k, k);
+				/*ctx.fillStyle = "red";
+    			ctx.font = "30pt Arial";
+    			ctx.fillText("\u2654", 40, 40);*/
+			};
+		};
+			
+
+		
+    	ctx.fillStyle = "red";
+    	ctx.font = "40px Arial";
+
+    	ctx.textBaseline = "middle";
+
+    	ctx.fillText(king, 20, 80);
+
+	</script>
+	
+</body>
+</html>
