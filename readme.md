@@ -5,6 +5,8 @@
 
 ### Обучение
 
+[30 полезных сервисов для веб-разработчиков и дизайнеров v2](http://habrahabr.ru/post/236219/)   http://habrahabr.ru/post/236219/
+
 [Образовательные и обучающие ресурсы для веб-разработчиков и веб-дизайнеров](http://habrahabr.ru/company/mailru/blog/215487/)   http://habrahabr.ru/company/mailru/blog/215487/
 
 [Голые пятницы #1 - Резиновые единицы изм.](http://habrahabr.ru/company/wargaming/blog/228145/)   http://habrahabr.ru/company/wargaming/blog/228145/
