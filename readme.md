@@ -85,6 +85,8 @@
 
 [Современный учебник JavaScript](http://learn.javascript.ru/) http://learn.javascript.ru/
 
+[Команда разработчиков графического языка Processing представила официальную JavaScript-библиотеку p5.js](http://habrahabr.ru/company/nordavind/blog/236621/)   http://habrahabr.ru/company/nordavind/blog/236621/
+
 [Метапрограммирование (с примерами на JavaScript)](http://habrahabr.ru/post/227753/) http://habrahabr.ru/post/227753/
 
 [Используя силу JS во всех аспектах веб-проекта](http://habrahabr.ru/company/raindrop/blog/202134/) http://habrahabr.ru/company/raindrop/blog/202134/
