@@ -138,6 +138,8 @@
 ***
 ### И тд. и тп.
 
+[Идеальный слайдер](https://github.com/gilbitron/Ideal-Image-Slider)   https://github.com/gilbitron/Ideal-Image-Slider
+
 [Как я делал виджет управления мощностью для своего браузерного симулятора космических полетов](http://habrahabr.ru/post/224173/) (http://habrahabr.ru/post/224173/)
 
 [Ускоряем Wordpress](http://habrahabr.ru/post/224159/) http://habrahabr.ru/post/224159/
