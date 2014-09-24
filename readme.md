@@ -153,6 +153,9 @@
 ***
 ### Хрень
 
+
+[http://www.sciencedebate2008.com/wp-content/uploads/universe-model.swf](http://www.sciencedebate2008.com/wp-content/uploads/universe-model.swf)
+
 [MULTIBOOT USB FLASH DRIVE 8Gb-16Gb FAT32-NTFS UEFI / MULTIBOOT DVD 4.7-8.5 Gb 2014 v.9.0](http://rutracker.org/forum/viewtopic.php?t=4504081) http://rutracker.org/forum/viewtopic.php?t=4504081
 
 [Регистрация Apple ID без компьютера](http://ibobr.ru/manual/russkij-apple-id.html) http://ibobr.ru/manual/russkij-apple-id.html
