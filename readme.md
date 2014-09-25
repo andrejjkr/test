@@ -138,6 +138,8 @@
 ***
 ### И тд. и тп.
 
+[Визуальный конфигуратор окон, написанный за один час](http://habrahabr.ru/post/238065/)   http://habrahabr.ru/post/238065/
+
 [Идеальный слайдер](https://github.com/gilbitron/Ideal-Image-Slider)   https://github.com/gilbitron/Ideal-Image-Slider
 
 [Как я делал виджет управления мощностью для своего браузерного симулятора космических полетов](http://habrahabr.ru/post/224173/) (http://habrahabr.ru/post/224173/)
