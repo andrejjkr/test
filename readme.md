@@ -138,6 +138,8 @@
 ***
 ### И тд. и тп.
 
+[каждая напечатанная буква пропадает через 10 секунд](http://habrahabr.ru/post/239045/)   http://habrahabr.ru/post/239045/
+
 [Визуальный конфигуратор окон, написанный за один час](http://habrahabr.ru/post/238065/)   http://habrahabr.ru/post/238065/
 
 [Идеальный слайдер](https://github.com/gilbitron/Ideal-Image-Slider)   https://github.com/gilbitron/Ideal-Image-Slider
