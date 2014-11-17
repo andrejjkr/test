@@ -66,6 +66,8 @@
 
 [Colors](http://www.w3.org/TR/css3-color/#svg-color) http://www.w3.org/TR/css3-color/#svg-color
 
+[Слайдшоу на CSS (Sass)](http://habrahabr.ru/post/202844/)   http://habrahabr.ru/post/202844/
+
 [12 малоизвестных возможностей CSS](http://habrahabr.ru/post/220237/)  http://habrahabr.ru/post/220237/
 
 [CSS 3 Timing Functions и с чем их едят](http://habrahabr.ru/post/220715/) http://habrahabr.ru/post/220715/
