@@ -82,6 +82,8 @@
 
 [Стеклянные и глянцевые CSS3 кнопки](http://habrahabr.ru/sandbox/48925/) http://habrahabr.ru/sandbox/48925/
 
+[Кнопки | CSS](http://shpargalkablog.ru/2012/04/css-knopki.html)  http://shpargalkablog.ru/2012/04/css-knopki.html
+
 ***
 ### JS
 
