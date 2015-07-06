@@ -5,6 +5,8 @@
 
 ### Обучение
 
+[Google maps](https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=ru)https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=ru
+
 [30 полезных сервисов для веб-разработчиков и дизайнеров v2](http://habrahabr.ru/post/236219/)   http://habrahabr.ru/post/236219/
 
 [Образовательные и обучающие ресурсы для веб-разработчиков и веб-дизайнеров](http://habrahabr.ru/company/mailru/blog/215487/)   http://habrahabr.ru/company/mailru/blog/215487/
